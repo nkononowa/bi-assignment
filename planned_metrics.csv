@@ -1,0 +1,4 @@
+id,manager_id,period_start,period_end,planned_revenue,planned_margin,planned_avg_check
+1,101,2025-09-01,2025-09-30,60000,14000,20000
+2,102,2025-09-01,2025-09-30,50000,12000,18000
+3,103,2025-09-01,2025-09-30,30000,7000,15000
